@@ -1,3 +1,3 @@
 # NoxuWeather
 
-This is a simple IOS app that show the current weather according to the location using Swift and Storyboards
+This is a simple IOS app that shows the current weather according to the location using Swift and Storyboards
